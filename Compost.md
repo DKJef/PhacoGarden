@@ -10,8 +10,7 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Déchets équilibrés      | - Tailles de haies, en feuilles
-- Plantes sèches
+| Déchets équilibrés      | - Tailles de haies, en feuilles - Plantes sèches
 - Feuilles mortes tendres, se décomposant rapidement
 - Fumier avec paille
 - Marc de café
