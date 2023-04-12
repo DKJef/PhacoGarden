@@ -6,8 +6,6 @@
 
 - Carbon vs Azote : 
 
- de bois, broyat d’élagage |
-|   |   |
 
 
 | Syntax      | Description |
