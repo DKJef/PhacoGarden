@@ -23,3 +23,12 @@
 - Feuilles mortes coriaces ou tanniques (persistants, Magnolia grandiflora, Châtaigner, Chêne)
 - Paille
 - Sciure, copeaux de bois, broyat d’élagage       |
+
+
+| column 1 | column 2 |
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
