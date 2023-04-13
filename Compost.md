@@ -7,7 +7,7 @@
 - Carbon vs Azote : 
 
 
-| column 1 | column 2 |
+| Type | Détails |
 |----------|----------|
 | Déchets équilibrés   | * Tailles de haies, en feuilles|
 |          | * Plantes sèches|
